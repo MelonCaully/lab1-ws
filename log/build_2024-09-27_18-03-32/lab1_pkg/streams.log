@@ -1,0 +1,23 @@
+[1.451s] Invoking command in '/home/meloncaully/lab1_ws/src/lab1_pkg': PYTHONPATH=/home/meloncaully/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/meloncaully/lab1_ws/build/lab1_pkg/build install --record /home/meloncaully/lab1_ws/build/lab1_pkg/install.log --install-scripts $base/lib/lab1_pkg --single-version-externally-managed install_data
+[2.006s] running egg_info
+[2.008s] writing ../../build/lab1_pkg/lab1_pkg.egg-info/PKG-INFO
+[2.009s] writing dependency_links to ../../build/lab1_pkg/lab1_pkg.egg-info/dependency_links.txt
+[2.010s] writing entry points to ../../build/lab1_pkg/lab1_pkg.egg-info/entry_points.txt
+[2.010s] writing requirements to ../../build/lab1_pkg/lab1_pkg.egg-info/requires.txt
+[2.011s] writing top-level names to ../../build/lab1_pkg/lab1_pkg.egg-info/top_level.txt
+[2.093s] reading manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[2.095s] writing manifest file '../../build/lab1_pkg/lab1_pkg.egg-info/SOURCES.txt'
+[2.096s] running build
+[2.096s] running build_py
+[2.097s] running install
+[2.099s] running install_lib
+[2.103s] running install_data
+[2.103s] copying launch/lab1_launch.py -> /home/meloncaully/lab1_ws/install/lab1_pkg/share/lab1_pkg/launch
+[2.104s] running install_egg_info
+[2.108s] removing '/home/meloncaully/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+[2.109s] Copying ../../build/lab1_pkg/lab1_pkg.egg-info to /home/meloncaully/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages/lab1_pkg-0.0.0-py3.8.egg-info
+[2.118s] running install_scripts
+[2.156s] Installing relay script to /home/meloncaully/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[2.156s] Installing talker script to /home/meloncaully/lab1_ws/install/lab1_pkg/lib/lab1_pkg
+[2.157s] writing list of installed files to '/home/meloncaully/lab1_ws/build/lab1_pkg/install.log'
+[2.209s] Invoked command in '/home/meloncaully/lab1_ws/src/lab1_pkg' returned '0': PYTHONPATH=/home/meloncaully/lab1_ws/build/lab1_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meloncaully/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lab1_pkg build --build-base /home/meloncaully/lab1_ws/build/lab1_pkg/build install --record /home/meloncaully/lab1_ws/build/lab1_pkg/install.log --install-scripts $base/lib/lab1_pkg --single-version-externally-managed install_data
